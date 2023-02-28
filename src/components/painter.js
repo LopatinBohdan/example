@@ -3,7 +3,8 @@ import { BrowserRouter as Router, Route, Routes, NavLink, Outlet, useParams, Lin
 const pictures=[
     {id:1, title:"painting1"},
     {id:2, title:"painting2"},
-    {id:3, title:"painting3"}
+    {id:3, title:"painting3"},
+    {id:4, title:"painting4"}
 ]
 
 function Main(){
